@@ -1,4 +1,6 @@
-## Hi there 👋
+### Introduction
+
+Hi, my name is Jack Bellgowan. I am a senior at Grand Valley State University set to graduate in Decemeber of 2025. My major is in computer science and my minors are in cybersecurity and mathematics. I am an intern at Nissan Motor Co. on the Off-Board Cybersecurity Team.
 
 <!--
 **beljac22/beljac22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
